@@ -34,12 +34,12 @@ TDS probe
 Requirements
     Hardware
 
-    DFRduino UNO R3 (or similar) x 1
-    Analog TDS Sensor / Meter Module x 1
-    TDS Probe x1
-    Jumper Wires x3
-    tested liquid x1
+   DFRduino UNO R3 (or similar) x 1
+   Analog TDS Sensor / Meter Module x 1
+   TDS Probe x1
+   Jumper Wires x3
+   tested liquid x1
     
-    Software
+   Software
 
-    Arduino IDE 
+   Arduino IDE 
