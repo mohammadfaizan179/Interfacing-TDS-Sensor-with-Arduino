@@ -34,16 +34,16 @@ and less clean the water is. Therefore, the TDS value can be used as one referen
     Colour: Black
     Other: Waterproof Probe
 
---> Requirements
+--> Requirements:
    
 --> Hardware
-
-   DFRduino UNO R3 (or similar) x 1
-   Analog TDS Sensor / Meter Module x 1
-   TDS Probe x1
-   Jumper Wires x3  
-   tested liquid x1
+   
+    Arduino UNO R3 x 1
+    Analogue TDS Sensor / Meter Module x 1
+    TDS Probe x 1
+    Jumper Wires
+    Tested Liqed x 1   
     
 --> Software
 
-   Arduino IDE 
+    Arduino IDE
