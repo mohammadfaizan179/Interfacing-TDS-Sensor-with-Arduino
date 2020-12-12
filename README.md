@@ -35,7 +35,8 @@ and less clean the water is. Therefore, the TDS value can be used as one referen
     Other: Waterproof Probe
 
 --> Requirements
-    Hardware
+   
+   Hardware
 
    DFRduino UNO R3 (or similar) x 1
    Analog TDS Sensor / Meter Module x 1
