@@ -39,9 +39,13 @@ and less clean the water is. Therefore, the TDS value can be used as one referen
    Hardware
 
    DFRduino UNO R3 (or similar) x 1
+   
    Analog TDS Sensor / Meter Module x 1
+   
    TDS Probe x1
+   
    Jumper Wires x3
+   
    tested liquid x1
     
 --> Software
