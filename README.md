@@ -15,6 +15,7 @@ and less clean the water is. Therefore, the TDS value can be used as one referen
 
 
 --> Specification:
+
     Signal Transmitter Board
     Input Voltage: 3.3 ~ 5.5V
     Output Voltage: 0 ~ 2.3V
@@ -26,6 +27,7 @@ and less clean the water is. Therefore, the TDS value can be used as one referen
     Electrode Interface: XH2.54-2P
     
 --> TDS probe
+
     Number of Needle: 2
     Total Length: 83cm
     Connection Interface: XH2.54-2P
